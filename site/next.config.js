@@ -2,11 +2,11 @@
 
 const nextConfig = {
   env: {
-    name: 'Kasm Technologies',
-    description: 'The official store for Kasm supported workspaces.',
-    icon: '/img/logo.svg',
-    listUrl: 'https://registry.kasmweb.com/',
-    contactUrl: 'https://kasmweb.com/support',
+    name: 'Paul\'s Registry!',
+    description: 'A curated list of my Kasm Workspaces',
+    icon: 'https://png.pngitem.com/pimgs/s/169-1695844_mixtape-skin-laptop-clipart-png-download-mixtape-clipart.png',
+    listUrl: 'https://pasiegel.github.io/kasm-registry/',
+    contactUrl: 'https://github.com/pasiegel/kasm-registry/issues',
   },
   reactStrictMode: true,
   swcMinify: true,
