@@ -2,7 +2,7 @@
 
 const nextConfig = {
   env: {
-    name: 'Paul\'s Registry!',
+    name: 'Paul\'s Registry',
     description: 'A curated list of my Kasm Workspaces',
     icon: 'https://png.pngitem.com/pimgs/s/169-1695844_mixtape-skin-laptop-clipart-png-download-mixtape-clipart.png',
     listUrl: 'https://pasiegel.github.io/kasm-registry/',
