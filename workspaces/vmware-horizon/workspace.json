@@ -1,6 +1,6 @@
 {
   "friendly_name": "vmware-horizon",
-  "image_src": "blob:https://pasiegel.github.io/9975146c-8671-448a-aa36-4c051d728e1b",
+  "image_src": "vmware-horizon.png",
   "description": "VMWare Horizon Client for Kasm Workspaces",
   "name": "kasmweb/vmware-horizon:1.11.0-rolling",
   "cores": 2,
