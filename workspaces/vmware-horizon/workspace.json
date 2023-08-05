@@ -1,0 +1,20 @@
+{
+  "friendly_name": "vmware-horizon",
+  "image_src": "blob:https://pasiegel.github.io/9975146c-8671-448a-aa36-4c051d728e1b",
+  "description": "VMWare Horizon Client for Kasm Workspaces",
+  "name": "kasmweb/vmware-horizon:1.11.0-rolling",
+  "cores": 2,
+  "memory": 2768,
+  "gpu_count": 0,
+  "cpu_allocation_method": "Inherit",
+  "docker_registry": "https://index.docker.io/v1/",
+  "categories": [
+    "Remote Access"
+  ],
+  "require_gpu": false,
+  "enabled": true,
+  "image_type": "Container",
+  "architecture": [
+    "amd64"
+  ]
+}
