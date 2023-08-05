@@ -15,6 +15,7 @@
   "enabled": true,
   "image_type": "Container",
   "architecture": [
-    "amd64"
-  ]
+    "amd64",
+    "arm64"
+]
 }
