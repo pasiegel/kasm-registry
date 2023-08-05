@@ -15,6 +15,11 @@
   "enabled": true,
   "image_type": "Container",
   "architecture": [
-    "amd64"
-  ]
+    "amd64",
+    "arm64"
+  ],
+  "compatibility": [
+    "1.13.x"
+  ],
+  "uncompressed_size_mb": 2240
 }
