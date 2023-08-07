@@ -2,7 +2,7 @@
   "friendly_name": "Slack",
   "image_src": "Slack.png",
   "description": "Slack for Kasm Workspaces ",
-  "name": "libreddit/libreddit:latest",
+  "name": "kasmweb/slack:1.10.0-rolling",
   "cores": 2,
   "memory": 2768,
   "gpu_count": 0,
